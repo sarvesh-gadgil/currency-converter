@@ -1,5 +1,5 @@
 import CurrencyConverter from "./views/CurrencyConverter";
-import CurrencyExchangeRates from "./views/CurrencyExchangeRates";
+import CurrentExchangeRates from "./views/CurrentExchangeRates";
 
 const paths = [
     {
@@ -8,7 +8,7 @@ const paths = [
     },
     {
         path: '/check-exchange-rates',
-        component: CurrencyExchangeRates
+        component: CurrentExchangeRates
     }
 ]
 
