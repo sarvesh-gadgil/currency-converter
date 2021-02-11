@@ -7,7 +7,7 @@ const paths = [
         component: CurrencyConverter
     },
     {
-        path: '/checkexchangerates',
+        path: '/check-exchange-rates',
         component: CurrencyExchangeRates
     }
 ]
